@@ -31,6 +31,8 @@ def getAdj(me):
     
     return adja
 
+#hallo
+
 
 class octo:
     def __init__(self, x, y, val):
