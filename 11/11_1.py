@@ -1,6 +1,8 @@
 import time
 start = time.time()
 
+#https://adventofcode.com/2021/day/11
+
 input = open('input.txt', 'r').read().splitlines()
 allOctos = []
 
